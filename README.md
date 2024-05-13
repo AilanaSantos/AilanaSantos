@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ailana Santos</h1>
 <h3 align="center">Estudante de Sistemas de Informação</h3>
 
-- 🔭 I’m currently working on [E-Commerce de Skins de CSGO](https://github.com/AilanaSantos/lojaskins.git)
+- 🔭 I’m currently working on [Aprendendo o NextJS](https://github.com/ailanasantos/learning_nextjs.git)
 
 - 🌱 I’m currently learning **JavaScript**
 
